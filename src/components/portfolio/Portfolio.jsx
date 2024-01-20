@@ -24,6 +24,7 @@ const data = [
     image: IMG3,
     title: "My personal portfolio website",
     github: "https://github.com/harsh-710/Portfolio",
+    demo: "https://portfolio-harsh-710.vercel.app/"
   },
   {
     id: 4,
